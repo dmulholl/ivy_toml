@@ -1,7 +1,3 @@
-##
-# This extension adds support for parsing TOML file headers.
-##
-
 import re
 import ivy
 import toml
